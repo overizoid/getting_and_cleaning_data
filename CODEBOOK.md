@@ -70,3 +70,5 @@ All files must be text files in form of a readable table.
   fBodyBodyGyroJerkMag-meanFreq()
   
   Note: All of the data above is in a range of [-1,1].
+  
+The function will also summarise the means of all of the data according to the subject ID and activity.
